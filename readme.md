@@ -40,7 +40,6 @@ pip install fastapi uvicorn markdown
 - The editor performs client-side slug generation for preview; the server re-sanitizes the slug before saving to ensure safe filenames.
 
 ## Contributing
-
-Contributions and improvements are welcome.
+- Contributions and improvements are welcome.
 ---
 

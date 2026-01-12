@@ -1,6 +1,7 @@
 # Minimal Markdown Blog (FastAPI + Static Editor)
 
 A small, minimal blog project with a lightweight frontend editor and a FastAPI backend. Posts are stored as Markdown files in the `entries/` folder; the editor supports headings, image uploads, and simple formatting. This repository is intended as a compact personal/blogging tool you can host locally.
+To see what it looks like blog.miracakbulut.onlie
 
 ## Features
 
